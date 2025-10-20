@@ -1,0 +1,13 @@
+{
+  "name": "mc-afk-bot",
+  "version": "1.0.0",
+  "description": "A Mineflayer AFK bot to keep a Minecraft server online 24/7 using Replit + UptimeRobot.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mineflayer": "^4.15.0"
+  }
+}
